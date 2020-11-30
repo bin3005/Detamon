@@ -13,7 +13,7 @@
 <!--  jQuery -->
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <!--  KAKAO MAP API -->
-<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=484abe6cee8cb658e2dd29b7c144de1d&libraries=services"></script>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey= API인증키입력 &libraries=services"></script>
 <!-- 구글 차트 API -->
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript">
